@@ -1,4 +1,9 @@
-work
+git_work
 ====
 
-repository for my free code
+/**
+ * ____/|    
+ * \ o.O|    Thanks & BRs,
+ *  =(_)=    zhengl2006@gmail.com
+ *    U
+ */
